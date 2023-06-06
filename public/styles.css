@@ -1,0 +1,37 @@
+body{
+    background-color:#FFC26F;
+    color: black;
+    text-align: justify;
+}
+
+h1{
+    text-transform: uppercase;
+    color: black;
+    font-family: "Libre Baskerville, serif";
+    width: 50%;
+    margin-left: 25%;
+    text-align: justify;
+}
+
+
+
+h2{
+    color:black;
+}
+
+#div h2p{
+    text-align: right;
+    color: aqua;
+}
+
+
+.img {
+    width: 50%;
+    margin-left: 25%;
+    border-radius:  round;
+    
+    }
+
+    p{
+        text-align: center;
+    }
